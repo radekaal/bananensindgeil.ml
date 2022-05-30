@@ -11,16 +11,18 @@
 
 .side { grid-area: side; 
  border-radius: 25px;
-background-image : url('musterV.png');
+background-image : url('Muster.png');
 background-repeat : default ;
-  background-size: cover ;
+background-attachment: fixed;
+  background-size: 100 ;
 }
 
 .head { grid-area: head; 
  border-radius: 25px;
-background-image : url('musterH.png');
+background-image : url('Muster.png');
 background-repeat : default ;
-  background-size: cover ;
+background-attachment: fixed;
+  background-size: 100 ;
 }
 
 
